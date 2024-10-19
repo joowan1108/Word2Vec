@@ -1,0 +1,13 @@
+checkpoint_frequency: null
+data_dir: /content/drive/MyDrive/LLM/Word2Vec/weights/data/
+dataset: PennTreebank
+epochs: 20
+learning_rate: 0.025
+model_dir: /content/drive/MyDrive/LLM/Word2Vec/weights/cbow_PennTreebank
+model_name: cbow
+optimizer: Adam
+shuffle: true
+train_batch_size: 96
+train_steps: null
+val_batch_size: 96
+val_steps: null
